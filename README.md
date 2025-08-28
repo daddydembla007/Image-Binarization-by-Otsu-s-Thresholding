@@ -1,6 +1,6 @@
 # Implemetation of Otsu's Thresholding Algorithm
 
-This project implements Otsu's Thresholding algorithm from scratch using NumPy and OpenCV, and analyzes its performance under varying levels of Gaussian noise. The algorithm automatically selects an optimal threshold for binarizing grayscale images by maximizing inter-class variance.
+This code implements Otsu's Thresholding algorithm from scratch using NumPy and OpenCV, and analyzes its performance under varying levels of Gaussian noise. The algorithm automatically selects an optimal threshold for binarizing grayscale images by maximizing inter-class variance.
 
 ## Features
 Manual implementation of Otsu's method (no use of cv2.THRESH_OTSU)
